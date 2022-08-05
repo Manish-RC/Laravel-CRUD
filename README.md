@@ -1,2 +1,2 @@
 # Laravel-CRUD
-    #A simple Library management system created using postgresql
+    #A simple Library management system created in Laravel using postgresql
